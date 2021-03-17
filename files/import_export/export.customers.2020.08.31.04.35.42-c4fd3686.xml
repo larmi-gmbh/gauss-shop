@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<Header>
+		<HeaderChild></HeaderChild>
+	</Header>
+	<customers>
+		<customer>
+	<customernumber>20003</customernumber>
+	<email>sakramichel@gmail.com</email>
+	<password>$2y$10$RnjyN/Zsxg1tgeFSs3qeAezd1FilArtf/4GbomASYtnYZHZeR/5FS</password>
+	<encoder>bcrypt</encoder>
+	<active>1</active>
+	<billing_company>Jessies</billing_company>
+	<billing_department></billing_department>
+	<billing_salutation>mr</billing_salutation>
+	<billing_firstname>Arthur</billing_firstname>
+	<billing_lastname>Michel</billing_lastname>
+	<billing_street>Fridolin-Bischof-Str 3</billing_street>
+	<billing_zipcode>74731</billing_zipcode>
+	<billing_city>Walldürn</billing_city>
+	<phone></phone>
+	<fax></fax>
+	<billing_countryID>2</billing_countryID>
+	<billing_stateID></billing_stateID>
+	<ustid></ustid>
+	<shipping_company>Jessies</shipping_company>
+	<shipping_department></shipping_department>
+	<shipping_salutation>mr</shipping_salutation>
+	<shipping_firstname>Arthur</shipping_firstname>
+	<shipping_lastname>Michel</shipping_lastname>
+	<shipping_street>Fridolin-Bischof-Str 3</shipping_street>
+	<shipping_zipcode>74731</shipping_zipcode>
+	<shipping_city>Walldürn</shipping_city>
+	<shipping_countryID>2</shipping_countryID>
+	<paymentID>4</paymentID>
+	<newsletter>0</newsletter>
+	<accountmode>0</accountmode>
+	<customergroup>EK</customergroup>
+	<language>1</language>
+	<subshopID>1</subshopID>
+</customer>
+<customer>
+	<customernumber>20004</customernumber>
+	<email>info@gaussat.de</email>
+	<password>$2y$10$1zZHmFw8BijiKqENnnE1MO38KwpeG88fuGVvF/0XLSWajZtclOC5y</password>
+	<encoder>bcrypt</encoder>
+	<active>1</active>
+	<billing_company>Gaus Handels GmbH</billing_company>
+	<billing_department></billing_department>
+	<billing_salutation>mr</billing_salutation>
+	<billing_firstname>Andrej</billing_firstname>
+	<billing_lastname>Gaus</billing_lastname>
+	<billing_street>Corunnastr 48</billing_street>
+	<billing_zipcode>58636</billing_zipcode>
+	<billing_city>Iserlohn</billing_city>
+	<phone></phone>
+	<fax></fax>
+	<billing_countryID>2</billing_countryID>
+	<billing_stateID></billing_stateID>
+	<ustid></ustid>
+	<shipping_company>Gaus Handels GmbH</shipping_company>
+	<shipping_department></shipping_department>
+	<shipping_salutation>mr</shipping_salutation>
+	<shipping_firstname>Andrej</shipping_firstname>
+	<shipping_lastname>Gaus</shipping_lastname>
+	<shipping_street>Corunnastr 48</shipping_street>
+	<shipping_zipcode>58636</shipping_zipcode>
+	<shipping_city>Iserlohn</shipping_city>
+	<shipping_countryID>2</shipping_countryID>
+	<paymentID>5</paymentID>
+	<newsletter>0</newsletter>
+	<accountmode>0</accountmode>
+	<customergroup>EK</customergroup>
+	<language>1</language>
+	<subshopID>1</subshopID>
+</customer>
+<customer>
+	<customernumber>20005</customernumber>
+	<email>donsilver24@gmail.com</email>
+	<password>$2y$10$0d1VDe.QoyKxGn3WxojNVeSUFcKowdiNt4Pg3RX4rlt5hTR7dPwsW</password>
+	<encoder>bcrypt</encoder>
+	<active>1</active>
+	<billing_company></billing_company>
+	<billing_department></billing_department>
+	<billing_salutation>mr</billing_salutation>
+	<billing_firstname>Random</billing_firstname>
+	<billing_lastname>McRandom</billing_lastname>
+	<billing_street>Randomstreet</billing_street>
+	<billing_zipcode>00000</billing_zipcode>
+	<billing_city>Lake Randomness</billing_city>
+	<phone></phone>
+	<fax></fax>
+	<billing_countryID>2</billing_countryID>
+	<billing_stateID></billing_stateID>
+	<ustid></ustid>
+	<shipping_company></shipping_company>
+	<shipping_department></shipping_department>
+	<shipping_salutation>mr</shipping_salutation>
+	<shipping_firstname>Random</shipping_firstname>
+	<shipping_lastname>McRandom</shipping_lastname>
+	<shipping_street>Randomstreet</shipping_street>
+	<shipping_zipcode>00000</shipping_zipcode>
+	<shipping_city>Lake Randomness</shipping_city>
+	<shipping_countryID>2</shipping_countryID>
+	<paymentID>4</paymentID>
+	<newsletter>0</newsletter>
+	<accountmode>0</accountmode>
+	<customergroup>EK</customergroup>
+	<language>1</language>
+	<subshopID>1</subshopID>
+</customer>
+	</customers>
+</Root>
